@@ -1,4 +1,4 @@
-# FizzBuzz in mutliple languages
+# FizzBuzz in multiple languages
 
 FizzBuzz is a common question in coding interviews. Essentially, you are asked to write a program that prints the numbers from 1 to 100 and for multiples of '3', print "Fizz" instead of the number and for multiples of '5' print "Buzz". For multiples of '3' AND '5', print "FizzBuzz".
 
